@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QGqKGW6ojaf4StGRs5qLe9RLVpQXQgNyIkc1r4KXSSE=",
+  "Source": "MormorBageriAPI",
+  "BasePath": "_content/MormorBageriAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
